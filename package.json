@@ -1,6 +1,6 @@
 {
-  "name": "summercalculator",
-  "homepage": "https://mortensokhode.github.io/SummerCalculator",
+  "name": "reactcalculator",
+  "homepage": "https://mortensokhode.github.io/ReactCalculator",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
